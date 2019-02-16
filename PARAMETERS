@@ -1,0 +1,5 @@
+RSuiteVersion: 0.35.251
+RVersion: 3.5
+Project: SMP2019_Optymalizacja_Praktyczna
+Repositories: Url[https://wlog-cran.s3.amazonaws.com], MRAN[2019-02-16]
+Artifacts: config_templ.txt
